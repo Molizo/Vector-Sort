@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491199939 source:c:\users\mihneavisoiu\desktop\super mario\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
